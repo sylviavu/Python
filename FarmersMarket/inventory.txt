@@ -1,0 +1,5 @@
+CH1 Chai 3.11
+AP1 Apples 6.00
+CF1 Coffee 11.23
+MK1 Milk 4.75
+OM1 Oatmeal 3.69
